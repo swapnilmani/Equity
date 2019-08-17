@@ -1,2 +1,0 @@
-# Equity
-Tracking Equity Markets 
